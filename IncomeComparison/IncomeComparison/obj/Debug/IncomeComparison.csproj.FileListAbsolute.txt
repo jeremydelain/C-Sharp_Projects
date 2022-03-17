@@ -1,0 +1,7 @@
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb
