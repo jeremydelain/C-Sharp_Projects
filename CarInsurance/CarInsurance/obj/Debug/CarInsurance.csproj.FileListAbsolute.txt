@@ -1,0 +1,7 @@
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\CarInsurance\CarInsurance\bin\Debug\CarInsurance.exe.config
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\CarInsurance\CarInsurance\bin\Debug\CarInsurance.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\CarInsurance\CarInsurance\bin\Debug\CarInsurance.pdb
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.pdb
