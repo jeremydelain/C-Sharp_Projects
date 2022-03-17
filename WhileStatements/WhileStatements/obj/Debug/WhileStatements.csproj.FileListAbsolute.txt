@@ -1,0 +1,7 @@
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\WhileStatements\WhileStatements\bin\Debug\WhileStatements.exe.config
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\WhileStatements\WhileStatements\bin\Debug\WhileStatements.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\WhileStatements\WhileStatements\bin\Debug\WhileStatements.pdb
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.pdb
