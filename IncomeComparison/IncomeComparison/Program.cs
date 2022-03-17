@@ -24,12 +24,12 @@ namespace IncomeComparison
 
             //calculate annual salary and return for user 1
             Console.WriteLine("Annual salary of Person 1:");
-            float salary1 = person1rate * person1hours * 50;
+            float salary1 = person1rate * person1hours * 52;
             Console.WriteLine(salary1.ToString());
 
             //calculate annual salary and return for user 2
             Console.WriteLine("Annual salary of Person 2:");
-            float salary2 = person2rate * person2hours * 50;
+            float salary2 = person2rate * person2hours * 52;
             Console.WriteLine(salary2.ToString());
 
             //determine whether user 1 outearns user 2
