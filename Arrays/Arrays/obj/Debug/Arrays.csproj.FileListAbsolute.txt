@@ -1,0 +1,7 @@
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
