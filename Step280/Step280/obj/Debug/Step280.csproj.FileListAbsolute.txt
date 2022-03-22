@@ -1,0 +1,7 @@
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step280\Step280\bin\Debug\Step280.exe.config
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step280\Step280\bin\Debug\Step280.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step280\Step280\bin\Debug\Step280.pdb
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step280\Step280\obj\Debug\Step280.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step280\Step280\obj\Debug\Step280.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step280\Step280\obj\Debug\Step280.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step280\Step280\obj\Debug\Step280.pdb
