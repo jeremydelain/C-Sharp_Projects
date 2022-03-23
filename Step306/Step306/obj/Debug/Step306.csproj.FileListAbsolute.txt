@@ -1,0 +1,6 @@
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step306\Step306\bin\Debug\Step306.exe.config
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step306\Step306\bin\Debug\Step306.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step306\Step306\bin\Debug\Step306.pdb
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step306\Step306\obj\Debug\Step306.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step306\Step306\obj\Debug\Step306.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step306\Step306\obj\Debug\Step306.pdb
