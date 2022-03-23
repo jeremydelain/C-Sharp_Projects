@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="MathOperations.cs" />
     <Compile Include="myMath.cs" />
+    <Compile Include="OutputParam.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

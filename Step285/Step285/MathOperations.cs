@@ -17,14 +17,5 @@ namespace Step285
         {
             return a + b + c;
         }
-
-        //output params
-        public static void Addition(out int a, out int b)
-        {
-            a = 1;
-            b = 2;
-            a += a;
-            b += b;
-        }
     }
 }

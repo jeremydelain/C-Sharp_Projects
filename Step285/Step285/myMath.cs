@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Step285
 {
-    //static class
-    static class myMath
+    //return input divided by 2
+    class byTwo
     {
-        public static int Divide(int input)
+        public int Divide(int input)
         {
             return input / 2;
         }
