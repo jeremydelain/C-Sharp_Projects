@@ -1,0 +1,7 @@
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step313\Step313\bin\Debug\Step313.exe.config
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step313\Step313\bin\Debug\Step313.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step313\Step313\bin\Debug\Step313.pdb
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step313\Step313\obj\Debug\Step313.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step313\Step313\obj\Debug\Step313.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step313\Step313\obj\Debug\Step313.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step313\Step313\obj\Debug\Step313.pdb
