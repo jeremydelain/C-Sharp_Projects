@@ -26,6 +26,7 @@ namespace Step324
             try
             {
                 Week week = (Week)Enum.Parse(typeof(Week), userDay);
+                Console.WriteLine(week);
             }
             catch
             {
