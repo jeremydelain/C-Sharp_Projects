@@ -1,0 +1,7 @@
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step337\Step337\bin\Debug\Step337.exe.config
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step337\Step337\bin\Debug\Step337.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step337\Step337\bin\Debug\Step337.pdb
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step337\Step337\obj\Debug\Step337.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step337\Step337\obj\Debug\Step337.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step337\Step337\obj\Debug\Step337.exe
+C:\Users\jerem\OneDrive\Documents\GitHub\C-Sharp_Projects\Step337\Step337\obj\Debug\Step337.pdb
