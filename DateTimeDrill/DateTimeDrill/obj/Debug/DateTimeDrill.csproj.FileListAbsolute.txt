@@ -1,0 +1,7 @@
+C:\Users\jerem\source\repos\DateTimeDrill\DateTimeDrill\bin\Debug\DateTimeDrill.exe.config
+C:\Users\jerem\source\repos\DateTimeDrill\DateTimeDrill\bin\Debug\DateTimeDrill.exe
+C:\Users\jerem\source\repos\DateTimeDrill\DateTimeDrill\bin\Debug\DateTimeDrill.pdb
+C:\Users\jerem\source\repos\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.exe
+C:\Users\jerem\source\repos\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.pdb
