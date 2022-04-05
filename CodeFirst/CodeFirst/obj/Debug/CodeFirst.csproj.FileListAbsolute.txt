@@ -1,0 +1,13 @@
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\jerem\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
