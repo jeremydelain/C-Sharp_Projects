@@ -27,6 +27,10 @@
   
   ![](IndexSearch.gif)
   
+  The filtering occurs in the Controller, in the Index method.
+  
+  ![](ControllerIndex.png)
+  
   The delete icons brings you to a delete page to confirm before deleteing.
   
   ![](Delete.gif)
