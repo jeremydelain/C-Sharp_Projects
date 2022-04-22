@@ -12,10 +12,15 @@
 ## [Vertigo Theatre](https://github.com/jeremydelain/C-Sharp_Projects/tree/main/VertigoTheatre)
 
   This project is the most substantial thing I've produced while learning at The Tech Acedemy. I am very proud of the results and I honestly had a ton of fun learning about C#, the .Net Framework, and the structure of MVC based solutions. 
+  
   I was a part of the team working on the "Production" section of the website, and I handled the CRUD for CastMember entites. 
   The create page is a simple form with a file selector for a profile picture.
   
   ![](Create.gif)
+  
+  The selected image in turned into a byte array for storage.
+  
+  ![](bytearray.png)
   
   The Edit page looks almost the same and updates the CastMember entity when submitted.
   
