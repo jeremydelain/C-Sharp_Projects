@@ -18,7 +18,7 @@
   
   ![](Create.gif)
   
-  The selected image in turned into a byte array for storage.
+  The selected image is turned into a byte array for storage.
   
   ![](bytearray.PNG)
   
