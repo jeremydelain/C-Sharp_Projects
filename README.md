@@ -11,7 +11,15 @@
   
 ## [Vertigo Theatre](https://github.com/jeremydelain/C-Sharp_Projects/tree/main/VertigoTheatre)
 
-  This project is the most substantial thing I've produced while learning at The Tech Acedemy. I am very proud of the results and I honestly had a ton of fun learning about C#, the .Net Framework, and the structure of MVC based solutions. 
+  This project is the most substantial thing I've produced while learning at The Tech Academy. I am very proud of the results and I enjoyed imporving my skills in:
+  * C#
+  * .Net Framework
+  * Entity Framework
+  * MVC structured solutions
+  * CSS
+  * Bootstrap
+  * Azure DevOps
+  * Version control
   
   I was a part of the team working on the "Production" section of the website where I used Entity Framework to scaffold my CRUD pages for my CastMember model.
   
@@ -27,7 +35,7 @@
   
   The Edit page looks almost the same and updates the CastMember entity when submitted.
   
-  The Index page is organized by headers sorted by the "ProdutionTitle" property, representing the show cast members are working on. CastMembers are represented as Bootstrap cards in decks with each card displaying their profile picture and name. Clicking on the card brings you to their details, hovering displays the edit and delete buttons.
+  The Index page is organized by headers sorted by the "ProdutionTitle" property, representing the show cast members are working on. CastMembers are represented as Bootstrap cards in wrapping rows with each card displaying their profile picture and name. Clicking on the card brings you to their details, hovering displays the edit and delete buttons.
   
   ![](IndexCards.gif)
   
