@@ -20,7 +20,7 @@
   
   The selected image in turned into a byte array for storage.
   
-  ![](bytearray.png)
+  ![](bytearray.PNG)
   
   The Edit page looks almost the same and updates the CastMember entity when submitted.
   
